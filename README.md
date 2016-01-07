@@ -1,5 +1,7 @@
 #TycheOrg Home
 ##Help Needed
+
+[![Join the chat at https://gitter.im/TycheOrg/Home](https://badges.gitter.im/TycheOrg/Home.svg)](https://gitter.im/TycheOrg/Home?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - Naming: As is know the hardest part of programming is naming things.
  There are quite a number of interesting projects in the pipeline that could really use intersesting names.
  The plan for the naming theme is Greek/Roman gods.
